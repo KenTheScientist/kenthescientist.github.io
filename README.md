@@ -1,2 +1,1 @@
-# kenthescientist.github.io
-# kenthescientist.github.io
+This is the website for Shreyas' study
